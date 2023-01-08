@@ -1,4 +1,4 @@
-# kohya-sd-script-colab
+# kohya-sd-scripts-colab
 
 [Kohya](https://github.com/kohya-ss)さんによる[sd-scripts](https://github.com/kohya-ss/sd-scripts)を実行するためのノートブック集。
 
